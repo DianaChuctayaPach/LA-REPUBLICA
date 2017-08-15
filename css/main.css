@@ -1,0 +1,213 @@
+*{
+    /*outline: 2px solid  green;*/
+}
+header{
+    background: red;
+}
+ul{
+    background-color: red;
+    /*position: relative;*/
+    padding: 40px;
+}
+.conteiner1{
+    background-color: red;
+}
+.conteiner2{
+    background-color: #3C3C3B;
+    /*border: red;*/
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+li{
+    display:inline-flex;
+    /*padding: 20px;*/
+    list-style: none;
+
+}
+
+span{
+    color: white;
+    margin: 0 50px;
+}
+#icono{
+    position: relative;
+    font-size: 40px;
+    /*color: white;*/
+    border-radius: 20px;
+    border: white;
+}
+#buscar{
+    position: relative;
+    font-size: 40px;
+    color: white;
+    border-radius: 5px;
+    /*left: 1100px;*/
+    /*top: 5px;*/
+    /*float: left;*/
+    left: 50px;
+}
+.caja{
+    border: 2px solid white;
+    /*padding: 5px;*/
+}
+
+.texto1{
+    background-color: #3C3C3B;
+    position: relative;
+    color: white;
+    height: 300px;
+    width: 200px;
+    top: 25px;
+    left: 200px;
+    font-size: 25px;
+    font-family: 'Bree Serif', serif;
+   text-align: center;
+   
+}
+#ico1-1{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 0px;
+    top: 250px;
+
+}
+#ico2-1{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 40px;
+    top: 250px;
+
+}
+#ico3-1{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 80px;
+    top: 250px;
+
+}
+#ico1-2{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 10px;
+    top: 100px;
+
+}
+#ico2-2{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 50px;
+    top: 100px;
+
+}
+#ico3-2{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 90px;
+    top: 100px;
+
+}
+#ico1-3{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 0px;
+    /*top: 20px;*/
+
+}
+#ico2-3{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 40px;
+    /*top: 250px;*/
+
+}
+#ico3-3{
+    position:absolute;
+    border-radius: 7px;
+    padding: 5px;
+    left: 80px;
+    /*top: 250px;*/
+
+}
+.cajapadre1{
+    position: relative;
+    background: #9f9ea7;
+    height: 400px;
+    width: 400px;
+    left: 50px;
+}
+.cajapadre2{
+    position: relative;
+    background: red;
+    height: 400px;
+    width: 400px;
+    left: 50px;
+}
+#odebrech{
+    position: relative;
+    height: 300px;
+    top: -275px;
+    left: 400px;
+}
+.texto2{
+    background-color: #3C3C3B;
+    position: relative;
+    color: white;
+    height: 140px;
+    width: 400px;
+    top: 25px;
+    left: 200px;
+    font-size: 25px;
+    font-family: 'Bree Serif', serif;
+   /*text-align: center;*/
+
+}
+.alejandra{
+    position: relative;
+    height: 200px;
+    width: 400px;
+    /*top: 25px;*/
+    /*left: 200px;*/
+
+}
+.texto3{
+    background-color: #3C3C3B;
+    height: 200px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Bree Serif', serif;
+
+}
+.texto4{
+    background-color: #1a285e;
+    height: 200px;
+    width: 200px;
+    color: white;
+        font-size: 20px;
+    font-family: 'Bree Serif', serif;
+
+}
+.texto5{
+    color: white;
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Bree Serif', serif;
+
+}
